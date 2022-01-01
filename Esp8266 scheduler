@@ -21,8 +21,9 @@ int totalTimeMS = 0;
 
 
 
+//Set-points
 // Timetable of what to countdown towards
-//To get the time you need you multiple the hour you want bu 360000. e.g. 4pm = 16 x 360000 = 57600000. Use decimals for half, quarter hours etc...
+//To get the time you need you multiple the hour you want by 360000. e.g. 4pm = 16 x 360000 = 57600000. Use decimals for half, quarter hours etc...
 
 int startTime = 32400000; 
 int t1 = 34200000;
