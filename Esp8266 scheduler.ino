@@ -36,7 +36,7 @@ int t6 = 44400000;
 int lunchTime = 46800000;
 int t7 = 48600000;
 int t8 = 50400000;
-int homeTime = 5220000;  //Changed to 11PM for testing
+int homeTime = 52200000;  //Changed to 11PM for testing
 
 CRGB leds[NUM_LEDS];
 
